@@ -1,0 +1,7 @@
+{
+  "name": "DentaAI - Akıllı Diş Kliniği",
+  "description": "AI destekli ön muayene, randevu sistemi ve klinik yönetimi içeren modern diş sağlığı platformu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
